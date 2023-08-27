@@ -1,0 +1,5 @@
+100,Samsung,20001.25
+200,Galaxy Book,40002.5
+300,Iphone 14,150003.0
+400,Macbook Pro,200004.0
+500,Airpods,16005.75
